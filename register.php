@@ -6,6 +6,16 @@ require_once "config.php";
 $username = $password = $confirm_password = "";
 $username_err = $password_err = $confirm_password_err = "";
 
+/*
+
+*********************************************************************
+Author : Bilal Tamboli
+Github : https://github.com/imbilaltamboli/
+**********************************************************************
+
+*/
+
+
 // Processing form data when form is submitted
 if($_SERVER["REQUEST_METHOD"] == "POST"){
 

@@ -12,6 +12,6 @@ Download the Zip File
 
  then after that Create New Table Named "Login"
 
- and last enter column names "id" , "User" ,"Pass" 
+ and last enter column names "id" , "username" ,"password" ,"created_at"
 
  Here You Ready to go 🥰🥰

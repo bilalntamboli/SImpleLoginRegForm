@@ -8,6 +8,19 @@ if(isset($_SESSION["loggedin"]) && $_SESSION["loggedin"] === true){
     exit;
 }
 
+
+
+/*
+
+*********************************************************************
+Author : Bilal Tamboli
+Github : https://github.com/imbilaltamboli/
+**********************************************************************
+
+*/
+
+
+
 // Include config file
 require_once "config.php";
 
