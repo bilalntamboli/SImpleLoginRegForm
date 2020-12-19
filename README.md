@@ -11,3 +11,7 @@ Download the Zip File
  You Need to Create New Database Named "Form"
 
  then after that Create New Table Named "Login"
+
+ and last enter column names "id" , "User" ,"Pass" 
+
+ Here You Ready to go 🥰🥰
